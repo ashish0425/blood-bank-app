@@ -29,26 +29,24 @@ Frontend	Backend	Database	Tools & Libraries
 ReactJS	Node.js	MongoDB	ExpressJS, Mongoose, JWT, Bootstrap, Git
 
 📁 Project Structure
-pgsql
-Copy code
-blood-bank-app/
-├── client/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── routes/
-│   │   ├── App.js
-│   │   └── index.js
-├── server/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middlewares/
-│   ├── config/
-│   ├── server.js
-│   └── .env
-├── package.json
-└── README.md
+- client/
+  - src/
+    - components/
+    - pages/
+    - routes/
+    - App.js
+    - index.js
+- server/
+  - controllers/
+  - models/
+  - routes/
+  - middlewares/
+  - config/
+  - server.js
+  - .env
+- package.json
+- README.md
+
 
 👤 Author
 Ashish Kumar
