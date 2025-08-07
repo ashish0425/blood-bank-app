@@ -1,11 +1,13 @@
 # BloodBankDetails – A Smart Blood Donation Management System
 Tagline: A full-stack web application to streamline blood donation workflows and improve real-time accessibility across organizations.
+
 📖 Description
 BloodBankDetails is a MERN stack-based application built to digitize and simplify the management of blood donations across donors, hospitals, and organizations. The system supports secure user authentication, role-based access, real-time inventory updates, and centralized records for transparency and traceability.
 
 This project was developed as part of the National Service Scheme (NSS) at NIT Jamshedpur, aimed at improving accessibility and management of donated blood using modern web technologies.
 
 ✨ Features
+
 🔐 Authentication & Authorization: Secure login and registration with role-based access (Admin, Organization, Hospital, Donor).
 
 🧾 Inventory Management: Real-time tracking and updating of blood unit availability across different blood groups and locations.
