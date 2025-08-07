@@ -1,9 +1,3 @@
-# NSS-Blood-Bank-Mern-Stack-Project
-• Developed a full-stack web application for storing and managing donated blood between various organizations, donars and admin by utilizing the MERN Stack. 
-
-• Implemenated user authentication and authorization features secure access to user-specfic details.
-
-• Tech Stack Used -ReactJS, NodeJS,ExpressJS, MongoDB, ReactRedux.
 # BloodBankDetails – A Smart Blood Donation Management System
 Tagline: A full-stack web application to streamline blood donation workflows and improve real-time accessibility across organizations.
 📖 Description
@@ -53,50 +47,7 @@ blood-bank-app/
 │   └── .env
 ├── package.json
 └── README.md
-⚙️ How to Run
-✅ Prerequisites
-Node.js (v14+)
 
-MongoDB
-
-Git
-
-🔧 Setup
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/ashish0425/blood-bank-app.git
-cd blood-bank-app
-Install dependencies for both client and server:
-
-bash
-Copy code
-cd client
-npm install
-cd ../server
-npm install
-Create a .env file in the server/ directory and add:
-
-ini
-Copy code
-MONGO_URL=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-PORT=5000
-Run the development server:
-
-bash
-Copy code
-cd server
-npm run dev
-Run the React frontend:
-
-bash
-Copy code
-cd client
-npm start
-🧪 Testing
-Basic testing with Postman or browser (no automated testing included for this version).
 👤 Author
 Ashish Kumar
 B.Tech ECE, NIT Jamshedpur
