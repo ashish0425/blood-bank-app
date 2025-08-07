@@ -49,9 +49,10 @@ ReactJS	Node.js	MongoDB	ExpressJS, Mongoose, JWT, Bootstrap, Git
 
 
 👤 Author
+
 Ashish Kumar
+
 B.Tech ECE, NIT Jamshedpur
-LinkedIn | GitHub
 
 
 
