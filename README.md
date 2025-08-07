@@ -1,5 +1,5 @@
 # BloodBankDetails – A Smart Blood Donation Management System
-Tagline: A full-stack web application to streamline blood donation workflows and improve real-time accessibility across organizations.
+A full-stack web application to streamline blood donation workflows and improve real-time accessibility across organizations.
 
 📖 Description
 BloodBankDetails is a MERN stack-based application built to digitize and simplify the management of blood donations across donors, hospitals, and organizations. The system supports secure user authentication, role-based access, real-time inventory updates, and centralized records for transparency and traceability.
